@@ -4,11 +4,11 @@
 
 ## Install requirments
 
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 ## Run the backend (rest api)
 
-python manage.py runserver
+```python manage.py runserver```
 
 ## API documentation
 
