@@ -2,6 +2,13 @@ import React from "react";
 import './App.css';
 import { Button } from 'react-bootstrap';
 
+function openproductpage() {
+  const openpage = (id) => {
+    console.log(id);
+    // open product page	product.js
+    
+  }
+}
 
 class App extends React.Component {
 
@@ -52,6 +59,7 @@ class App extends React.Component {
                   <td>{item.name}</td>
                   <td>{item.id}</td>
                   <td>{item.pruduct_type}</td>
+                  <td><Button onClick={() => openproductpage(item.id)}>Open</Button></td>
                 </tr>
               ))}
             </tbody>

@@ -19,8 +19,21 @@ Product type:
 
 ### post
 
-curl -H "Content-Type: application/json" -u admin:houssem <http://localhost:8000/users/> -X POST -d '{"name": "Product Type 1", }' <http://localhost:8000/product/producttype/>
+```curl -X POST -H "Content-Type: application/json" -d '{"name":"test"}' http://localhost:8000/product/product/```
 
 ### get
 
-curl -H "Content-Type: application/json" -u admin:houssem <http://localhost:8000/users/> -X GET <http://localhost:8000/product/producttype/>
+```curl -X POST -H "Content-Type: application/json" -d '{"name":"test"}' http://localhost:8000/product/product/```
+
+
+## Run the frontend (rest api)
+
+
+``` cd frontend/modifyproduct
+npm start
+```
+
+
+
+
+
