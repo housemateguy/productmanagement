@@ -28,11 +28,17 @@ Product type:
 
 ## Run the frontend (rest api)
 
+make sure the backend is running before you run the front or the products will not show up
+
 
 ``` cd frontend/modifyproduct
 npm start
 ```
 
+
+### Part Three
+
+ideally there should be a form of authentification to view, modify or add products
 
 
 
