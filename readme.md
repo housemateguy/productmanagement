@@ -1,4 +1,8 @@
-## Install requirment
+## Basic App for Product Management
+
+![image](https://user-images.githubusercontent.com/47294454/155307469-33b9e08a-30d8-48fe-a303-c0c9b5f4c8a8.png)
+
+## Install requirments
 
 pip install -r requirements.txt
 
@@ -10,7 +14,7 @@ python manage.py runserver
 
 api root url: <http://localhost:8000/product/>
 
-(You can explore the api via the link above, login as username:admin/password:houssem needed)
+(You can explore the api via the link above)
 
 
 ## Send API requests
