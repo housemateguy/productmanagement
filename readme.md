@@ -10,6 +10,9 @@ python manage.py runserver
 
 api root url: <http://localhost:8000/product/>
 
+(You can explore the api via the link above, login as username:admin/password:houssem needed)
+
+
 ## Send API requests
 
 Product type:
