@@ -30,7 +30,7 @@ Product type:
 ```curl -X POST -H "Content-Type: application/json" -d '{"name":"test"}' http://localhost:8000/product/product/```
 
 
-## Run the frontend (rest api)
+## Run the frontend
 
 make sure the backend is running before you run the front or the products will not show up
 
