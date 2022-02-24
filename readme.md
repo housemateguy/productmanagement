@@ -1,5 +1,8 @@
 ## Basic App for Product Management
 
+![build](https://github.com/housemateguy/productmanagement/actions/workflows/django.yml/badge.svg)
+
+
 ![image](https://user-images.githubusercontent.com/47294454/155307469-33b9e08a-30d8-48fe-a303-c0c9b5f4c8a8.png)
 
 ## Install requirments
